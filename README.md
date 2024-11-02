@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/hasib_cell" target="blank"><img src="https://img.shields.io/twitter/follow/hasib_cell?logo=twitter&style=for-the-badge" alt="hasib_cell" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
+
 
 - 📫 How to reach me **youcanseeme230955@gmail.com**
 
